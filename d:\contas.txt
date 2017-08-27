@@ -1,0 +1,16 @@
++---------------------Contas--------------------+ 
+[ Pessoa Fisica    Nome: joaquim    Cpf = 1234567776
+,  Pessoa Fisica    Nome: jose    Cpf = 2333332322
+,  Pessoa Fisica    Nome: julio    Cpf = 12345456356
+,  Pessoa Fisica    Nome: josiane    Cpf = 2333336345622
+,  Pessoa Fisica    Nome: joana    Cpf = 1234567775
+,  Pessoa Fisica    Nome: josias    Cpf = 2333755542
+]
+[ Pessoa Juridica     Nome: naosei    Cnpj= 34444322222
+,  Pessoa Juridica     Nome: Marcelo    Cnpj= 433233333
+,  Pessoa Juridica     Nome: nadir    Cnpj= 344447555522
+,  Pessoa Juridica     Nome: Marcos    Cnpj= 43356433633
+,  Pessoa Juridica     Nome: noe    Cnpj= 344765422
+,  Pessoa Juridica     Nome: Mauricio    Cnpj= 435433333
+]
++-----------------------------------------------+ 
